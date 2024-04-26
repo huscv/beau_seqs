@@ -1,4 +1,4 @@
 # beau_seqs1
-Beginner working on a random seq 
-Coding in Python, using Biopython library
-Creating a random sequence and playing with it in many ways, helped by gpt and docuentation
+In this repo, an attempt was made to generate random sequence data and perform various experiments on it.
+Coding in Python, using Biopython library.
+ChatGPT and Biopython documentation was utilised.
